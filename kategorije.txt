@@ -1,0 +1,11 @@
+stolica|na njoj se sedi|false|
+sto|na njemu se jede|false|
+blok|slicno tabureu|true|
+laptop sto|sto za laptop|false|
+stagod|stagod|false|
+tabure|okrugao, mali|true|
+sofa|dvosed obican|false|
+dvosed|sedeljka za dvoje ljudi|false|
+lazy-bag|mekana lopta na kojoj se lezi|false|
+kutija|u nju stavis stavri|false|
+trosed|sofa|false|

@@ -1,0 +1,18 @@
+~ What is salon-namestaja?
+
+    It is console application written in Python 3.x.
+    It uses mostly written in functional way.
+	No custom made objects data structures that are available
+	in standard library.
+    Roles in this app:
+      * Manager - CRUD operations for everything.
+      * Salesperson - Workflow simulates cash register
+
+
+~ How to start application?
+
+    Use terminal to navigate to project folder, then type
+    "python3 project.py". Few moments later Login will
+    appear in terminal.
+
+

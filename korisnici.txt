@@ -1,0 +1,12 @@
+mali|stefi|stefan|malovic|prodavac|true|
+big|boss|vladimir|jankovic|menadzer|false|
+raca|raca|ratic|ognjen|prodavac|true|
+djomla|popokatatapetl|mladen|vukas|prodavac|false|
+pera|peric|pera|peric|prodavac|false|
+mitar|miric|mitar|miric|prodavac|false|
+zdera|zdera123|milos|zderovic|menadzer|false|
+milojko|pantic|milojko|pantic|prodavac|false|
+jasar|jasar|jasar|jasar|prodavac|false|
+perica|12345|pera|ristic|menadzer|false|
+djomla92|djomla1992|mladen|vukas|prodavac|false|
+wolfqt|dukisha1|vuk|mataruga|prodavac|false|

@@ -1,0 +1,5 @@
+transport|prevoz robe iz magacina do kupca|200|false|
+montaza|sklapanje namestaja|1500|false|
+prevoz|sa A na B|1230|true|
+utovar-istovar|utovar-istovar|1000|false|
+konsultacije|sa prof. dizajnerom enterijera|1599|false|

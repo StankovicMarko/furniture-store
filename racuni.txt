@@ -1,0 +1,26 @@
+0|seka-aleksic/simpo2/konsultacije/utovar-istovar/ikea-23/transport/|blok/sofa///sto//|12900/21000/1599/1000/1900/200/|1/1/1/1/2/100/|12059.8|60299|16/1/2016/1/12/|jasar/jasar/jasar|false|
+1|tempo-022/konsultacije/transport/utovar-istovar/simpo2/|tabure////sofa/|890/1599/200/1000/21000/|1/1/30/1/1/|6097.8|30489|16/1/2016/20/10/|jasar/jasar/jasar|false|
+2|simpo2/konsultacije/utovar-istovar/transport/|sofa////|21000/1599/1000/200/|1/3/15/15/|8759.4|43797|17/1/2016/11/48/|jasar/jasar/jasar|false|
+3|ikea-23/|sto/|1900/|7/|2660.0|13300|18/1/2016/2/49/|jasar/jasar/jasar|false|
+4|abc-sto/ikea-23/|sto/sto/|2999/1900/|2/1/|1579.6|7898|18/1/2016/7/32/|milojko/milojko/pantic|false|
+5|utovar-istovar/|/|1000/|10/|2000.0|10000|18/1/2016/17/17/|djomla92/mladen/vukas|false|
+6|asus-a3000/transport/utovar-istovar/montaza/|laptop sto////|2390/200/1000/1500/|20/1/20/20/|19600.0|98000|18/1/2016/18/31/|djomla92/mladen/vukas|false|
+7|tempo-022/|tabure/|890/|1/|178.0|890|18/1/2016/19/37/|wolfqt/vuk/mataruga|false|
+8|seka-aleksic/|blok/|12900/|1/|2580.0|12900|18/1/2016/19/41/|wolfqt/vuk/mataruga|false|
+9|tiger-bag/|lazy-bag/|1590/|1/|318.0|1590|18/1/2016/19/49/|wolfqt/vuk/mataruga|false|
+10|tiger-bag/|lazy-bag/|1590/|1/|318.0|1590|19/1/2016/19/49/|wolfqt/vuk/mataruga|false|
+11|ikea-23/|sto/|1900/|1/|380.0|1900|19/1/2016/9/46/|wolfqt/vuk/mataruga|false|
+12|ikea-23/|sto/|1900/|1/|380.0|1900|19/1/2016/9/47/|wolfqt/vuk/mataruga|false|
+13|ikea-23/|sto/|1900/|1/|380.0|1900|19/1/2016/9/48/|wolfqt/vuk/mataruga|false|
+14|ikea-23/|sto/|1900/|1/|380.0|1900|19/1/2016/9/49/|wolfqt/vuk/mataruga|false|
+15|ikea-23/|sto/|1900/|1/|380.0|1900|19/1/2016/9/50/|wolfqt/vuk/mataruga|false|
+16|asus-a3000/|laptop sto/|2390/|1/|478.0|2390|19/1/2016/9/51/|wolfqt/vuk/mataruga|false|
+17|abc-sto/|sto/|2999/|1/|599.8|2999|19/1/2016/9/59/|jasar/jasar/jasar|false|
+18|asus-a3000/|laptop sto/|2390/|1/|478.0|2390|19/1/2016/10/0/|wolfqt/vuk/mataruga|false|
+18|asus-a3000/|laptop sto/|2390/|1/|478.0|2390|19/1/2016/10/1/|wolfqt/vuk/mataruga|false|
+20|ikea-23/abc-sto/|sto/sto/|1900/2999/|1/1/|979.8|4899|19/1/2016/10/2/|jasar/jasar/jasar|false|
+21|ikea-23/abc-sto/|sto/sto/|1900/2999/|1/1/|979.8|4899|19/1/2016/10/3/|jasar/jasar/jasar|false|
+22|ikea-23/simpo/abc-sto/|sto/sto/sto/|1900/2000/2999/|1/1/1/|1379.8|6899|19/1/2016/12/6/|jasar/jasar/jasar|false|
+23|abc-sto/|sto/|2999/|1/|599.8|2999|19/1/2016/9/59/|jasar/jasar/jasar|false|
+24|abc-sto/|sto/|2999/|1/|599.8|2999|19/1/2016/9/59/|jasar/jasar/jasar|false|
+25|ikea-23/simpo2/utovar-istovar/|sto/sofa//|1900/21000/1000/|3/2/1/|9740.0|48700|19/1/2016/15/17/|wolfqt/vuk/mataruga|false|

@@ -1,0 +1,12 @@
+0|ikea-23|crna-3|23|1900|sto|false|
+1|seka-aleksic|crna i zlatna|2|12900|blok|false|
+2|tempo-022|bela|1|890|tabure|false|
+3|simpo2|zelena|0|21000|sofa|true|
+4|asus-a3000|plava 0ff5|39|2390|laptop sto|false|
+5|collection-09|krem|54|5400|dvosed|true|
+6|abc-sto|tirkizna-03ff|7|2999|sto|false|
+7|tiger-bag|narandzasta|2|1590|lazy-bag|false|
+8|swiss|krem|0|5630|kutija|true|
+9|trosed-22|sarena|2|14899|trosed|false|
+10|simpo|crna|19|2000|sto|false|
+11|tabure2|zelena|20|4599|tabure|false|
